@@ -168,10 +168,10 @@ I regularly practice Data Structures & Algorithms and competitive programming.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amar-06&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amar-06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-06&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
